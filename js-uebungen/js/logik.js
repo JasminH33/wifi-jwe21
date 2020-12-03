@@ -108,11 +108,14 @@ console.log(USER_NAME);
 let example1 ='hui!';
 
 {
-    let example1 = 'jump!';
+    let example1 = 'lokale Variabel in diesem Scope';
+    console.log(example1);
 
 
 }
+
 console.log(example1);
+//console.log(example1);
 
 
 
