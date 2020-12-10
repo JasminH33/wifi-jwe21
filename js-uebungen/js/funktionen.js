@@ -24,4 +24,4 @@ function checkMyInput(input) {
     }
 }
 
-let ergebnisMeinerFunktion = checkMyInput ('Markus');
+let ergebnisMeinerFunktion = checkMyInput ('Jasmin');
